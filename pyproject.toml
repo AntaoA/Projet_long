@@ -1,0 +1,23 @@
+[project]
+name = "projet-long"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "docplex>=2.30.251",
+    "joblib>=1.5.3",
+    "matplotlib>=3.10.8",
+    "nempy>=2.1.0",
+    "networkx>=3.6.1",
+    "numpy>=2.4.1",
+    "odfpy>=1.4.1",
+    "pandas>=2.3.3",
+    "pennylane>=0.43.2",
+    "qiskit>=2.3.0",
+    "qiskit-aer>=0.17.2",
+    "qiskit-algorithms>=0.4.0",
+    "qiskit-optimization>=0.7.0",
+    "scipy>=1.17.0",
+    "tqdm>=4.67.1",
+]
